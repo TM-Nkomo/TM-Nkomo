@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Michelle!
 - 👀 I’m interested in Software Engineering and Artificial Intelligence.
-- 🌱 I’m currently studying my 1st year BSc in Computer Science at the University of Witwatersrand.
-- 💞️ I’m looking to collaborate on any exciting projects! (Check Out The Projects I've Worked On Before!)
+- 🌱 I’m currently studying my Final year BSc in Computer Science at the University of the Witwatersrand.
+- 💞️ I’m looking to collaborate on any exciting projects!
 - 📫 You can reach me here or on LinkedIn: linkedin.com/in/tmnkomo
 
 <!---
